@@ -5,3 +5,5 @@ California State University, Fullerton.
 Those projects are organized by subject and chronologically. This GitHub repository has 2 purpose: It is a personal ressource for me 
 to have a quick access to my past projects. Secondly, they are now used for my future possible employers to have an overview of my knowledge
 and expertise in Statistics as well as my evolution of the quality of my assignments over time. 
+
+I am the only author of all those files and any group project will be stated as so in the file.
