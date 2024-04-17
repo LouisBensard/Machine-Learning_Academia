@@ -1,9 +1,46 @@
-# MS-Statistics-Projects
-The repository contains some of the projects, assignments and exams completed during my Master of Statistics at 
-California State University, Fullerton. 
+# Project Title: Master of Statistics Portfolio 📊
 
-Those projects are organized by subject and chronologically. This GitHub repository has 2 purpose: It is a personal ressource for me 
-to have a quick access to my past projects. Secondly, they are now used for my future possible employers to have an overview of my knowledge
-and expertise in Statistics as well as my evolution of the quality of my assignments over time. 
+Welcome to my Master of Statistics project repository! Here, you'll find a collection of projects and papers completed during my Master's program at [University Name]. Each project showcases applications of statistical methods and machine learning techniques to solve real-world problems.
 
-I am the only author of all those files and any group project will be stated as so in the file.
+## Table of Contents 📑
+
+- [About the Repository](#about-the-repository)
+- [Projects](#projects)
+- [Technologies Used](#technologies-used)
+- [Contact](#contact)
+
+## About the Repository 📖
+
+![Project Banner](link-to-image)
+
+This repository serves as a comprehensive portfolio of my academic work in statistics, demonstrating my skills in data analysis, statistical modeling, and machine learning. Below are brief descriptions of each project included in this repository.
+
+## Projects 📁
+
+### Project 1: Title of Project 1
+![Image for Project 1](link-to-image)
+
+**Objective**: Brief description of the project objective.
+
+**Techniques Used**: List techniques or tools used.
+
+**Outcome**: Summary of the project results or findings.
+
+[More Details](link-to-detailed-project-page-or-section)
+
+### Project 2: Title of Project 2
+![Image for Project 2](link-to-image)
+
+**Objective**: Brief description of the project objective.
+
+**Techniques Used**: List techniques or tools used.
+
+**Outcome**: Summary of the project results or findings.
+
+[More Details](link-to-detailed-project-page-or-section)
+
+## Technologies Used 💻
+
+- Python (Pandas, NumPy, Scikit-Learn)
+- R (ggplot2, dplyr)
+- SQL
