@@ -24,7 +24,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ### Machine Learning and Algorithms
 
-[<img src="/Images/ML/2.png" alt="Page 1 Paper" width="50%">](#)
+[<img src="/Images/Other/ML.png" alt="ML" width="40%">](#)
 
 **Content**: Explored both supervised and unsupervised learning techniques, including classification, regression, clustering, and reinforcement learning. The course emphasized practical application and theoretical understanding of various algorithms.
 
@@ -37,20 +37,21 @@ This section details the courses I took during my Master's in Statistics, highli
 
 **Tools Used**: Python (Scikit-Learn, TensorFlow, Keras), R (caret, randomForest)
 
+[<img src="/Images/ML/2.png" alt="Page 1 Paper" width="50%">](#)
 [<img src="/Images/ML/1.png" alt="Page 1 Paper" width="30%">](#)
 [<img src="/Images/ML/3.png" alt="Page 1 Paper" width="30%">](#)
-[<img src="/Images/ML/4.png" alt="Page 1 Paper" width="30%">](#)
 
+[<img src="/Images/ML/4.png" alt="Page 1 Paper" width="30%">](#)
 [<img src="/Images/ML/6.png" alt="Page 1 Paper" width="30%">](#)
 [<img src="/Images/ML/5.png" alt="Page 1 Paper" width="30%">](#)
-[<img src="/Images/ML/7.png" alt="Page 1 Paper" width="30%">](#)
 
+[<img src="/Images/ML/7.png" alt="Page 1 Paper" width="30%">](#)
 [<img src="/Images/ML/8.png" alt="Page 1 Paper" width="30%">](#)
 [<img src="/Images/ML/9.png" alt="Page 1 Paper" width="30%">](#)
 
 ### Advanced Theory of Probability & Statistics
 
-[<img src="/Images/Other/Proba.png" alt="Probability Theory" width="30%">](#)
+[<img src="/Images/Other/Proba.png" alt="Probability Theory" width="40%">](#)
 
 **Content**: Advanced topics in probability and inferential statistics, focusing on rigorous mathematical approaches and real-world applications.
 
@@ -65,7 +66,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ### Statistical Computing
 
-![Image for Statistical Computing](link-to-image)
+[<img src="/Images/Other/StatisticalComputing.png" alt="Statistical Computing" width="40%">](#)
 
 **Content**: Focus on computational strategies for statistical analysis including simulation, numerical methods, and optimization, essential for handling complex data.
 
@@ -101,7 +102,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ### Artificial Intelligence
 
-[<img src="/Images/Other/AI.png" alt="AI" width="30%">](#)
+[<img src="/Images/Other/AI.png" alt="AI" width="40%">](#)
 
 **Content**: Comprehensive study of AI principles and methodologies, including search algorithms, machine learning applications, and neural network architectures.
 
@@ -116,7 +117,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ### Bayesian Statistics
 
-[<img src="/Images/Other/BayesianStats.png" alt="Bayesian Stats" width="30%">](#)
+[<img src="/Images/Other/BayesianStats.png" alt="Bayesian Stats" width="40%">](#)
 
 **Content**: In-depth exploration of Bayesian statistical methods, covering both theoretical underpinnings and applications in hierarchical modeling and Bayesian networks.
 
@@ -141,7 +142,7 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 
 ### Multivariate Analysis
 
-[<img src="/Images/Other/Multivariate.png" alt="Multivariate Analysis" width="30%">](#)
+[<img src="/Images/Other/Multivariate.png" alt="Multivariate Analysis" width="40%">](#)
 
 **Content**: Techniques for analyzing multiple measurements on each observation, addressing both theory and application.
 
@@ -166,7 +167,7 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 
 ### Categorical Data Analysis
 
-[<img src="/Images/Other/Categorical.png" alt="Categorical" width="30%">](#)
+[<img src="/Images/Other/Categorical.png" alt="Categorical" width="40%">](#)
 
 **Content**: Statistical methods for categorical data, including logistic regression, and models for count data.
 
