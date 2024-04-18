@@ -101,6 +101,8 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ### Artificial Intelligence
 
+[<img src="/Images/Other/AI.png" alt="AI" width="50%">](#)
+
 **Content**: Comprehensive study of AI principles and methodologies, including search algorithms, machine learning applications, and neural network architectures.
 
 **Techniques Used**:
