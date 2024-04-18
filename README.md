@@ -52,8 +52,6 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ### Advanced Theory of Probability & Statistics
 
-![Image for Advanced Theory of Probability & Statistics](link-to-image)
-
 **Content**: Advanced topics in probability and inferential statistics, focusing on rigorous mathematical approaches and real-world applications.
 
 **Techniques Used**:
@@ -64,8 +62,6 @@ This section details the courses I took during my Master's in Statistics, highli
 - **Non-Parametric Methods**: Including Kernel density estimation, Mann-Whitney U test, Kruskal-Wallis test, and Spearman’s rank correlation.
 
 **Tools Used**: R, Python
-
-[Advanced Theory of Probability & Statistics Portfolio](/01_Machine_Learning_&_Algorit/)
 
 ### Statistical Computing
 
@@ -103,11 +99,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 **Tools Used**: R (Rcpp, shiny), Python (NumPy, SciPy)
 
-[Statistical Computing Portfolio](/01_Machine_Learning_/)
-
 ### Artificial Intelligence
-
-![Image for Artificial Intelligence](link-to-image)
 
 **Content**: Comprehensive study of AI principles and methodologies, including search algorithms, machine learning applications, and neural network architectures.
 
@@ -138,16 +130,14 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ### Statistical Consulting
 
-[<img src="/Images/Other/World_Map.png" alt="World Map" width="50%">](#)
 [<img src="/Images/Other/Page1_Paper.png" alt="Page1 Paper" width="30%">](#)
+[<img src="/Images/Other/World_Map.png" alt="World Map" width="50%">](#)
 
 **Content**: Developed in collaboration with Panasonic Aviation Corporation and Black Swan Data, this 5-month long project utilizes advanced Machine Learning models to predict and optimize media selection on flights in order to enahnce passenger satisfaction while minimizing content costs for the airlines.
 
-I dedicated an entired repository for this project, you can explore it here: [https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git](https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git
+I dedicated an entired repository for this project, you can explore it here: [https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git](https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git)
 
 ### Multivariate Analysis
-
-![Image for Multivariate Analysis](link-to-image)
 
 **Content**: Techniques for analyzing multiple measurements on each observation, addressing both theory and application.
 
@@ -162,8 +152,6 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 
 ### Categorical Data Analysis
 
-![Image for Categorical Data Analysis](link-to-image)
-
 **Content**: Statistical methods for categorical data, including logistic regression, and models for count data.
 
 **Techniques Used**:
@@ -177,8 +165,6 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 
 ### Experimental Design
 
-![Image for Experimental Design](link-to-image)
-
 **Content**: Study of designing experiments to address specific research questions, including the analysis of variance and covariance structures.
 
 **Techniques Used**:
@@ -191,8 +177,6 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 **Tools Used**: R
 
 ### Applied BioStatistics
-
-![Image for Applied BioStatistics](link-to-image)
 
 **Content**: Application of statistical techniques to biological data, particularly in health sciences, covering survival analysis, and repeated measures.
 
