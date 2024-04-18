@@ -138,7 +138,8 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ### Statistical Consulting
 
-[<img src="/Images/other/World_Map.png" alt="World Map" width="50%">](#)
+[<img src="/Images/Other/World_Map.png" alt="World Map" width="50%">](#)
+[<img src="/Images/Other/Page1_Paper.png" alt="Page1 Paper" width="30%">](#)
 
 **Content**: Developed in collaboration with Panasonic Aviation Corporation and Black Swan Data, this 5-month long project utilizes advanced Machine Learning models to predict and optimize media selection on flights in order to enahnce passenger satisfaction while minimizing content costs for the airlines.
 
