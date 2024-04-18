@@ -50,6 +50,8 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ### Advanced Theory of Probability & Statistics
 
+[<img src="/Images/Other/Proba.png" alt="Probability Theory" width="30%">](#)
+
 **Content**: Advanced topics in probability and inferential statistics, focusing on rigorous mathematical approaches and real-world applications.
 
 **Techniques Used**:
@@ -163,6 +165,8 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 [<img src="/Images/Housing Market Analysis_Lasso_ANOVA_Tukey/7.png" alt="Multivariate Analysis" width="30%">](#)
 
 ### Categorical Data Analysis
+
+[<img src="/Images/Other/Categorical.png" alt="Categorical" width="30%">](#)
 
 **Content**: Statistical methods for categorical data, including logistic regression, and models for count data.
 
