@@ -16,9 +16,7 @@ I graduated with the higher distinction: summa cum laude and a 4.0 GPA, ranking 
 
 ## About the Repository 📖
 
-![Project Banner](link-to-image)
-
-This repository serves as a comprehensive portfolio of my academic work in statistics, demonstrating my skills in data analysis, statistical modeling, and machine learning. Below are brief descriptions of each project included in this repository.
+This repository serves as a portfolio of my academic work in statistics, demonstrating my skills in data analysis, statistical modeling, and machine learning. Below are brief descriptions of each project included in this repository. Note that these ressource are non-exhaustive.
 
 ## Courses Overview 📁
 
@@ -26,7 +24,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ### Machine Learning and Algorithms
 
-![Image for Machine Learning and Algorithms](link-to-image)
+[<img src="/Images/ML/2.png" alt="Page 1 Paper" width="50%">](#)
 
 **Content**: Explored both supervised and unsupervised learning techniques, including classification, regression, clustering, and reinforcement learning. The course emphasized practical application and theoretical understanding of various algorithms.
 
@@ -38,6 +36,17 @@ This section details the courses I took during my Master's in Statistics, highli
 - **Optimization Algorithms**: Including Gradient Descent, Stochastic Gradient Descent, and Adam Optimizer, essential for effective model training.
 
 **Tools Used**: Python (Scikit-Learn, TensorFlow, Keras), R (caret, randomForest)
+
+[<img src="/Images/ML/1.png" alt="Page 1 Paper" width="30%">](#)
+[<img src="/Images/ML/3.png" alt="Page 1 Paper" width="30%">](#)
+[<img src="/Images/ML/4.png" alt="Page 1 Paper" width="30%">](#)
+
+[<img src="/Images/ML/6.png" alt="Page 1 Paper" width="30%">](#)
+[<img src="/Images/ML/5.png" alt="Page 1 Paper" width="30%">](#)
+[<img src="/Images/ML/7.png" alt="Page 1 Paper" width="30%">](#)
+
+[<img src="/Images/ML/8.png" alt="Page 1 Paper" width="30%">](#)
+[<img src="/Images/ML/9.png" alt="Page 1 Paper" width="30%">](#)
 
 [Machine Learning a& Algorithms Portfolio](/01_Machine_Learning_&_Algorithms/)
 
@@ -129,13 +138,11 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ### Statistical Consulting
 
-![Image for Statistical Consulting](link-to-image)
+[<img src="/Images/other/World_Map.png" alt="World Map" width="50%">](#)
 
-**Content**: Practical application of statistical methods in consulting settings, emphasizing communication skills and applied statistics.
+**Content**: Developed in collaboration with Panasonic Aviation Corporation and Black Swan Data, this 5-month long project utilizes advanced Machine Learning models to predict and optimize media selection on flights in order to enahnce passenger satisfaction while minimizing content costs for the airlines.
 
-**Techniques Used**: Regression analysis, Data visualization, Predictive modeling.
-
-**Tools Used**: R, Python, Tableau
+I dedicated an entired repository for this project, you can explore it here: [https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git](https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git
 
 ### Multivariate Analysis
 
