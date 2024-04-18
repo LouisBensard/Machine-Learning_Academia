@@ -22,7 +22,7 @@ This repository serves as a portfolio of my academic work in statistics, demonst
 
 This section details the courses I took during my Master's in Statistics, highlighting the content, techniques used, and tools utilized in each course. The aim is to showcase the breadth and depth of my training and expertise, particularly in Machine Learning, AI, and Statistical Computing.
 
-### Machine Learning and Algorithms
+### I - Machine Learning and Algorithms
 
 [<img src="/Images/Other/ML.png" alt="ML" width="40%">](#)
 
@@ -37,7 +37,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 **Tools Used**: Python (Scikit-Learn, TensorFlow, Keras), R (caret, randomForest)
 
-[<img src="/Images/ML/2.png" alt="Page 1 Paper" width="50%">](#)
+[<img src="/Images/ML/2.png" alt="Page 1 Paper" width="30%">](#)
 [<img src="/Images/ML/1.png" alt="Page 1 Paper" width="30%">](#)
 [<img src="/Images/ML/3.png" alt="Page 1 Paper" width="30%">](#)
 
@@ -49,7 +49,7 @@ This section details the courses I took during my Master's in Statistics, highli
 [<img src="/Images/ML/8.png" alt="Page 1 Paper" width="30%">](#)
 [<img src="/Images/ML/9.png" alt="Page 1 Paper" width="30%">](#)
 
-### Advanced Theory of Probability & Statistics
+### II - Advanced Theory of Probability & Statistics
 
 [<img src="/Images/Other/Proba.png" alt="Probability Theory" width="40%">](#)
 
@@ -64,7 +64,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 **Tools Used**: R, Python
 
-### Statistical Computing
+### III - Statistical Computing
 
 [<img src="/Images/Other/StatisticalComputing.png" alt="Statistical Computing" width="40%">](#)
 
@@ -100,7 +100,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 **Tools Used**: R (Rcpp, shiny), Python (NumPy, SciPy)
 
-### Artificial Intelligence
+### IV - Artificial Intelligence
 
 [<img src="/Images/Other/AI.png" alt="AI" width="40%">](#)
 
@@ -115,7 +115,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 **Tools Used**: Python (TensorFlow, PyTorch, NLTK)
 
-### Bayesian Statistics
+### V - Bayesian Statistics
 
 [<img src="/Images/Other/BayesianStats.png" alt="Bayesian Stats" width="40%">](#)
 
@@ -131,7 +131,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 **Tools Used**: R (brms, BayesX), Python (PyMC3)
 
-### Statistical Consulting
+### VI - Statistical Consulting
 
 [<img src="/Images/Other/Page1_Paper.png" alt="Page1 Paper" width="30%">](#)
 [<img src="/Images/Other/World_Map.png" alt="World Map" width="50%">](#)
@@ -140,7 +140,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 I dedicated an entired repository for this project, you can explore it here: [https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git](https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git)
 
-### Multivariate Analysis
+### VII - Multivariate Analysis
 
 [<img src="/Images/Other/Multivariate.png" alt="Multivariate Analysis" width="40%">](#)
 
@@ -165,7 +165,7 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 
 [<img src="/Images/Housing Market Analysis_Lasso_ANOVA_Tukey/7.png" alt="Multivariate Analysis" width="30%">](#)
 
-### Categorical Data Analysis
+### VIII - Categorical Data Analysis
 
 [<img src="/Images/Other/Categorical.png" alt="Categorical" width="40%">](#)
 
@@ -180,7 +180,7 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 
 **Tools Used**: R, Python (statsmodels)
 
-### Experimental Design
+### IX - Experimental Design
 
 **Content**: Study of designing experiments to address specific research questions, including the analysis of variance and covariance structures.
 
@@ -193,7 +193,9 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 
 **Tools Used**: R
 
-### Applied BioStatistics
+### X - Applied BioStatistics
+
+[<img src="/Images/Other/Biostats.png" alt="Biostats" width="40%">](#)
 
 **Content**: Application of statistical techniques to biological data, particularly in health sciences, covering survival analysis, and repeated measures.
 
