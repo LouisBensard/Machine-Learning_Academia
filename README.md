@@ -99,7 +99,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ### Artificial Intelligence
 
-[<img src="/Images/Other/AI.png" alt="AI" width="50%">](#)
+[<img src="/Images/Other/AI.png" alt="AI" width="30%">](#)
 
 **Content**: Comprehensive study of AI principles and methodologies, including search algorithms, machine learning applications, and neural network architectures.
 
@@ -114,7 +114,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ### Bayesian Statistics
 
-[<img src="/Images/Other/BayesianStats.png" alt="Bayesian Stats" width="50%">](#)
+[<img src="/Images/Other/BayesianStats.png" alt="Bayesian Stats" width="30%">](#)
 
 **Content**: In-depth exploration of Bayesian statistical methods, covering both theoretical underpinnings and applications in hierarchical modeling and Bayesian networks.
 
@@ -139,7 +139,7 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 
 ### Multivariate Analysis
 
-[<img src="/Images/Other/Multivar.png" alt="Multivariate Analysis" width="50%">](#)
+[<img src="/Images/Other/Multivariate.png" alt="Multivariate Analysis" width="30%">](#)
 
 **Content**: Techniques for analyzing multiple measurements on each observation, addressing both theory and application.
 
