@@ -116,7 +116,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ### Bayesian Statistics
 
-![Image for Bayesian Statistics](link-to-image)
+[<img src="/Images/Other/BayesianStats.png" alt="Bayesian Stats" width="50%">](#)
 
 **Content**: In-depth exploration of Bayesian statistical methods, covering both theoretical underpinnings and applications in hierarchical modeling and Bayesian networks.
 
@@ -140,6 +140,8 @@ This section details the courses I took during my Master's in Statistics, highli
 I dedicated an entired repository for this project, you can explore it here: [https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git](https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git)
 
 ### Multivariate Analysis
+
+[<img src="/Images/Other/Multivar.png" alt="Multivariate Analysis" width="50%">](#)
 
 **Content**: Techniques for analyzing multiple measurements on each observation, addressing both theory and application.
 
