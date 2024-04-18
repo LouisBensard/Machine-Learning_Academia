@@ -199,6 +199,26 @@ This section details the courses I took during my Master's in Statistics, highli
 
 ## Technologies Used 💻
 
-- Python (Pandas, NumPy, Scikit-Learn)
-- R (ggplot2, dplyr)
-- SQL
+### Python Libraries
+- **Pandas**: Essential for data manipulation and analysis, providing data structures and operations for manipulating numerical tables and time series.
+- **NumPy**: Fundamental package for scientific computing with Python, supporting large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions.
+- **Scikit-Learn**: Simple and efficient tools for predictive data analysis, built on NumPy, SciPy, and matplotlib, supporting various classification, regression, and clustering algorithms.
+- **TensorFlow**: An end-to-end open-source platform for machine learning, facilitating the creation of deep learning models.
+- **Keras**: High-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano, designed to enable fast experimentation with deep neural networks.
+- **Matplotlib**: A plotting library for creating static, interactive, and animated visualizations in Python.
+- **Seaborn**: Based on matplotlib, this library provides a high-level interface for drawing attractive and informative statistical graphics.
+- **Statsmodels**: Module that allows users to explore data, estimate statistical models, and perform statistical tests.
+- **PyMC3**: Bayesian statistical modeling focusing on advanced Markov chain Monte Carlo and variational fitting algorithms.
+- **NLTK**: Leading platform for building Python programs to work with human language data, supporting tasks such as classification, tokenization, stemming, tagging, parsing, and semantic reasoning.
+
+### R Packages
+- **ggplot2**: Part of the tidyverse, widely used for creating complex, multi-plot graphics that are kitted out with all necessary details like legends and labels.
+- **dplyr**: A grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges.
+- **caret**: Short for Classification And REgression Training, this package provides a suite of tools that streamline the process of training and tuning machine learning models.
+- **randomForest**: Implements the random forest algorithm for classification and regression, an ensemble method based on aggregated decision trees.
+- **lme4**: Provides functions to fit and analyze mixed linear and nonlinear effects models, often used in complex experimental designs.
+- **shiny**: Makes it incredibly easy to build interactive web applications with R for visualizing data and models dynamically.
+- **BayesX**: Software package that performs Bayesian inference in structured additive regression models and is integrated within R.
+- **brms**: An R package for Bayesian multilevel models using Stan, which allows fitting complex models using custom families and link functions.
+- **factoextra**: Used for extracting and visualizing the results of multivariate data analyses, including PCA, CA, MCA, and clustering.
+- **survival**: A package that contains the core survival analysis routines, including defining and fitting Cox models, Kaplan-Meier plots, and other routines.
