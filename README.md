@@ -48,8 +48,6 @@ This section details the courses I took during my Master's in Statistics, highli
 [<img src="/Images/ML/8.png" alt="Page 1 Paper" width="30%">](#)
 [<img src="/Images/ML/9.png" alt="Page 1 Paper" width="30%">](#)
 
-[Machine Learning a& Algorithms Portfolio](/01_Machine_Learning_&_Algorithms/)
-
 ### Advanced Theory of Probability & Statistics
 
 **Content**: Advanced topics in probability and inferential statistics, focusing on rigorous mathematical approaches and real-world applications.
@@ -153,6 +151,16 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 - **Canonical Correlation Analysis (CCA)**: Used to identify and measure the associations between two sets of variables.
 
 **Tools Used**: R, Python (pandas, scikit-learn)
+
+[<img src="/Images/Housing Market Analysis_Lasso_ANOVA_Tukey/1.png" alt="Multivariate Analysis" width="30%">](#)
+[<img src="/Images/Housing Market Analysis_Lasso_ANOVA_Tukey/5.png" alt="Multivariate Analysis" width="30%">](#)
+[<img src="/Images/Housing Market Analysis_Lasso_ANOVA_Tukey/3.png" alt="Multivariate Analysis" width="30%">](#)
+
+[<img src="/Images/Housing Market Analysis_Lasso_ANOVA_Tukey/4.png" alt="Multivariate Analysis" width="30%">](#)
+[<img src="/Images/Housing Market Analysis_Lasso_ANOVA_Tukey/2.png" alt="Multivariate Analysis" width="30%">](#)
+[<img src="/Images/Housing Market Analysis_Lasso_ANOVA_Tukey/6.png" alt="Multivariate Analysis" width="30%">](#)
+
+[<img src="/Images/Housing Market Analysis_Lasso_ANOVA_Tukey/7.png" alt="Multivariate Analysis" width="30%">](#)
 
 ### Categorical Data Analysis
 
