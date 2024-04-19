@@ -251,3 +251,8 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 - **brms**: An R package for Bayesian multilevel models using Stan, which allows fitting complex models using custom families and link functions.
 - **factoextra**: Used for extracting and visualizing the results of multivariate data analyses, including PCA, CA, MCA, and clustering.
 - **survival**: A package that contains the core survival analysis routines, including defining and fitting Cox models, Kaplan-Meier plots, and other routines.
+
+## Contact 📬
+For more information on my academic journey, please reach out at [louisbenss@gmail.com](mailto:louisbenss@gmail.com).
+
+Project Link: [https://github.com/LouisBensard/Machine-Learning-Academia.git](https://github.com/LouisBensard/Machine-Learning-Academia.git)
