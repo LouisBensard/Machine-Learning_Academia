@@ -200,6 +200,8 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 
 ### IX - Experimental Design
 
+[<img src="/Images/Other/ExperimentalDesign.png" alt="Experimental Design" width="40%">](#)
+
 **Content**: Study of designing experiments to address specific research questions, including the analysis of variance and covariance structures.
 
 **Techniques Used**:
