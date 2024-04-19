@@ -49,6 +49,7 @@ This section details the courses I took during my Master's in Statistics, highli
 [<img src="/Images/ML/8.png" alt="Page 1 Paper" width="30%">](#)
 [<img src="/Images/ML/9.png" alt="Page 1 Paper" width="30%">](#)
 
+
 ### II - Advanced Theory of Probability & Statistics
 
 [<img src="/Images/Other/Proba.png" alt="Probability Theory" width="40%">](#)
@@ -63,6 +64,7 @@ This section details the courses I took during my Master's in Statistics, highli
 - **Non-Parametric Methods**: Including Kernel density estimation, Mann-Whitney U test, Kruskal-Wallis test, and Spearman’s rank correlation.
 
 **Tools Used**: R, Python
+
 
 ### III - Statistical Computing
 
@@ -100,6 +102,7 @@ This section details the courses I took during my Master's in Statistics, highli
 
 **Tools Used**: R (Rcpp, shiny), Python (NumPy, SciPy)
 
+
 ### IV - Artificial Intelligence
 
 [<img src="/Images/Other/AI.png" alt="AI" width="40%">](#)
@@ -115,7 +118,18 @@ This section details the courses I took during my Master's in Statistics, highli
 
 **Tools Used**: Python (TensorFlow, PyTorch, NLTK)
 
-### V - Bayesian Statistics
+
+### V - Statistical Consulting
+
+[<img src="/Images/Other/Page1_Paper.png" alt="Page1 Paper" width="30%">](#)
+[<img src="/Images/Other/World_Map.png" alt="World Map" width="50%">](#)
+
+**Content**: Developed in collaboration with Panasonic Aviation Corporation and Black Swan Data, this 5-month long project utilizes advanced Machine Learning models to predict and optimize media selection on flights in order to enahnce passenger satisfaction while minimizing content costs for the airlines.
+
+I dedicated an entired repository for this project, you can explore it here: [https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git](https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git)
+
+
+### VI - Bayesian Statistics
 
 [<img src="/Images/Other/BayesianStats.png" alt="Bayesian Stats" width="40%">](#)
 
@@ -131,14 +145,6 @@ This section details the courses I took during my Master's in Statistics, highli
 
 **Tools Used**: R (brms, BayesX), Python (PyMC3)
 
-### VI - Statistical Consulting
-
-[<img src="/Images/Other/Page1_Paper.png" alt="Page1 Paper" width="30%">](#)
-[<img src="/Images/Other/World_Map.png" alt="World Map" width="50%">](#)
-
-**Content**: Developed in collaboration with Panasonic Aviation Corporation and Black Swan Data, this 5-month long project utilizes advanced Machine Learning models to predict and optimize media selection on flights in order to enahnce passenger satisfaction while minimizing content costs for the airlines.
-
-I dedicated an entired repository for this project, you can explore it here: [https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git](https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git)
 
 ### VII - Multivariate Analysis
 
@@ -165,6 +171,7 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 
 [<img src="/Images/Housing Market Analysis_Lasso_ANOVA_Tukey/7.png" alt="Multivariate Analysis" width="30%">](#)
 
+
 ### VIII - Categorical Data Analysis
 
 [<img src="/Images/Other/Categorical.png" alt="Categorical" width="40%">](#)
@@ -179,6 +186,7 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 - **Generalized Linear Models (GLM)**: Extending linear models to allow for response variables that have error distribution models other than a normal distribution, commonly used for categorical and count data.
 
 **Tools Used**: R, Python (statsmodels)
+
 
 ### IX - Experimental Design
 
@@ -195,7 +203,7 @@ I dedicated an entired repository for this project, you can explore it here: [ht
 
 ### X - Applied BioStatistics
 
-[<img src="/Images/Other/Biostats.png" alt="Biostats" width="40%">](#)
+[<img src="/Images/Other/biostats.png" alt="Biostats" width="40%">](#)
 
 **Content**: Application of statistical techniques to biological data, particularly in health sciences, covering survival analysis, and repeated measures.
 
